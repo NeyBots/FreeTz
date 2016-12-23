@@ -1,0 +1,2 @@
+# FreeTz
+Agar Server Private
